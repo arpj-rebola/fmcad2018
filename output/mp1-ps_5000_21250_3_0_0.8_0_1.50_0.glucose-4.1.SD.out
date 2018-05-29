@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/mp1-ps_5000_21250_3_0_0.8_0_1.50_0.cnf
+c Parsing DRAT proof proofs/mp1-ps_5000_21250_3_0_0.8_0_1.50_0.glucose-4.1.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 21250
+np 1376815
+nr 0
+dc 686207
+ds 686148
+dr 0
+tt 93698
+tp 3479
+tf 495
+tb 89724
+td 0

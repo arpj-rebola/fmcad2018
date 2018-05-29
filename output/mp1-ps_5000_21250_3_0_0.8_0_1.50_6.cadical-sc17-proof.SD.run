@@ -1,0 +1,56 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.cnf
+[runlim] argv[2]:		proofs/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.cadical-sc17-proof.drat
+[runlim] argv[3]:		-skip-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 04:51:54 2018
+[runlim] main pid:		3817
+[runlim] sample:		10.0 time, 10.3 real, 160.9 MB
+[runlim] sample:		20.0 time, 20.3 real, 168.9 MB
+[runlim] sample:		30.0 time, 30.3 real, 176.3 MB
+[runlim] sample:		40.0 time, 40.3 real, 183.9 MB
+[runlim] sample:		50.0 time, 50.3 real, 191.9 MB
+[runlim] sample:		60.0 time, 60.3 real, 198.4 MB
+[runlim] sample:		70.0 time, 70.3 real, 205.2 MB
+[runlim] sample:		80.0 time, 80.3 real, 212.4 MB
+[runlim] sample:		90.0 time, 90.3 real, 220.4 MB
+[runlim] sample:		100.0 time, 100.3 real, 227.6 MB
+[runlim] sample:		110.0 time, 110.3 real, 234.6 MB
+[runlim] sample:		120.0 time, 120.3 real, 242.1 MB
+[runlim] sample:		130.0 time, 130.3 real, 249.9 MB
+[runlim] sample:		140.0 time, 140.3 real, 256.7 MB
+[runlim] sample:		149.9 time, 150.3 real, 263.4 MB
+[runlim] sample:		159.9 time, 160.3 real, 272.2 MB
+[runlim] sample:		169.9 time, 170.3 real, 280.7 MB
+[runlim] sample:		179.9 time, 180.3 real, 288.2 MB
+[runlim] sample:		189.9 time, 190.3 real, 297.2 MB
+[runlim] sample:		199.9 time, 200.3 real, 305.7 MB
+[runlim] sample:		209.9 time, 210.3 real, 315.5 MB
+[runlim] sample:		219.9 time, 220.3 real, 326.3 MB
+[runlim] sample:		229.9 time, 230.3 real, 337.3 MB
+[runlim] sample:		239.9 time, 240.3 real, 348.9 MB
+[runlim] sample:		249.9 time, 250.3 real, 359.0 MB
+[runlim] sample:		259.9 time, 260.3 real, 369.3 MB
+[runlim] sample:		269.9 time, 270.3 real, 380.1 MB
+[runlim] sample:		279.9 time, 280.3 real, 391.2 MB
+[runlim] sample:		289.9 time, 290.3 real, 403.3 MB
+[runlim] sample:		299.9 time, 300.3 real, 416.9 MB
+[runlim] sample:		309.9 time, 310.3 real, 431.8 MB
+[runlim] sample:		319.9 time, 320.3 real, 448.1 MB
+[runlim] sample:		329.9 time, 330.3 real, 465.9 MB
+[runlim] sample:		339.9 time, 340.3 real, 487.3 MB
+[runlim] sample:		349.9 time, 350.3 real, 501.1 MB
+[runlim] end:			Tue May 29 04:57:44 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			350.37 seconds
+[runlim] time:			349.87 seconds
+[runlim] space:			501.1 MB
+[runlim] samples:		3500

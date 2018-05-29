@@ -1,0 +1,21 @@
+c Parsing CNF instance benchmarks/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.cnf
+c Parsing DRAT proof proofs/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.Maple_LCM_Dist.drat
+c Checking DRAT proof
+s REJECTED
+Detected an incorrect instruction at instruction 943152.
+Introduced clause C: 0
+The folowing literals were derived by unit propagation on ~C without reaching a conflict:
+-4667 -4523 -4471 -4458 -3897 -3858 -3710 -3635 -3609 -3453 -3337 -3155 -3099 -3087 -3071 -2954 -2886 -2629 -2590 -2534 -2425 -2302 -2296 -2241 -2157 -2149 -2031 -1908 -1885 -1641 -1597 -1557 -1429 -907 -685 -667 -492 -450 -411 -378 -348 -342 -317 -218 -191 -162 -114 -71 -39 -26 -24 -23 -20 -19 -18 -16 -11 -9 -7 -6 -3 -2 -1 4 5 8 10 12 15 27 38 64 72 75 82 84 86 112 117 136 147 152 157 214 261 267 306 324 325 328 463 490 563 620 646 647 672 757 857 940 950 973 974 1355 1410 1614 1709 1805 1937 1991 2044 2168 2263 2283 2336 2341 2405 2426 2462 2570 3294 3296 3352 3389 3458 3531 3823 3933 3941 3943 3952 4054 4107 4253 4433 4438 4489 4853 4871 
+C was thus decided not to be a RUP clause in the accumulated formula.
+Furthermore, C is the empty clause, so C cannot be a RAT.
+nf 21250
+np 921902
+nr 0
+dc 436664
+ds 0
+dr 24
+tt 4530
+tp 3979
+tf 550
+tb 0
+td 0

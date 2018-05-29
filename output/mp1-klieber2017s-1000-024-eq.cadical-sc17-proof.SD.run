@@ -1,0 +1,24 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/mp1-klieber2017s-1000-024-eq.cnf
+[runlim] argv[2]:		proofs/mp1-klieber2017s-1000-024-eq.cadical-sc17-proof.drat
+[runlim] argv[3]:		-skip-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 05:40:47 2018
+[runlim] main pid:		8773
+[runlim] sample:		10.0 time, 10.4 real, 66.1 MB
+[runlim] sample:		20.0 time, 20.4 real, 74.0 MB
+[runlim] sample:		30.0 time, 30.4 real, 84.1 MB
+[runlim] end:			Tue May 29 05:41:19 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			32.75 seconds
+[runlim] time:			32.31 seconds
+[runlim] space:			88.8 MB
+[runlim] samples:		323

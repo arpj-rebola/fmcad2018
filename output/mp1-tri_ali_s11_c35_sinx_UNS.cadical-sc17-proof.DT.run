@@ -1,0 +1,21 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/mp1-tri_ali_s11_c35_sinx_UNS.cnf
+[runlim] argv[2]:		proofs/mp1-tri_ali_s11_c35_sinx_UNS.cadical-sc17-proof.drat
+[runlim] start:			Tue May 29 04:21:19 2018
+[runlim] main pid:		1043
+[runlim] sample:		10.0 time, 10.1 real, 56.9 MB
+[runlim] sample:		20.0 time, 20.1 real, 56.9 MB
+[runlim] sample:		30.0 time, 30.1 real, 56.9 MB
+[runlim] end:			Tue May 29 04:21:49 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			30.64 seconds
+[runlim] time:			30.51 seconds
+[runlim] space:			103.5 MB
+[runlim] samples:		305

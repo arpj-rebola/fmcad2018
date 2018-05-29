@@ -1,0 +1,45 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/g2-hwmcc15deep-6s340rb63-k16.cnf
+[runlim] argv[2]:		proofs/g2-hwmcc15deep-6s340rb63-k16.Maple_LCM_Dist.drat
+[runlim] argv[3]:		-skip-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 06:00:52 2018
+[runlim] main pid:		10353
+[runlim] sample:		10.0 time, 10.4 real, 147.3 MB
+[runlim] sample:		20.0 time, 20.4 real, 195.8 MB
+[runlim] sample:		30.0 time, 30.4 real, 200.4 MB
+[runlim] sample:		40.0 time, 40.4 real, 204.6 MB
+[runlim] sample:		50.0 time, 50.4 real, 208.7 MB
+[runlim] sample:		60.0 time, 60.4 real, 212.6 MB
+[runlim] sample:		70.0 time, 70.4 real, 215.5 MB
+[runlim] sample:		80.0 time, 80.4 real, 219.6 MB
+[runlim] sample:		90.0 time, 90.4 real, 224.0 MB
+[runlim] sample:		100.0 time, 100.4 real, 229.7 MB
+[runlim] sample:		110.0 time, 110.4 real, 232.8 MB
+[runlim] sample:		120.0 time, 120.4 real, 235.4 MB
+[runlim] sample:		130.0 time, 130.4 real, 239.2 MB
+[runlim] sample:		140.0 time, 140.4 real, 243.1 MB
+[runlim] sample:		150.0 time, 150.4 real, 246.9 MB
+[runlim] sample:		160.1 time, 160.4 real, 251.8 MB
+[runlim] sample:		170.1 time, 170.4 real, 257.0 MB
+[runlim] sample:		180.1 time, 180.4 real, 264.0 MB
+[runlim] sample:		190.1 time, 190.4 real, 271.4 MB
+[runlim] sample:		200.1 time, 200.4 real, 279.5 MB
+[runlim] sample:		210.1 time, 210.4 real, 287.7 MB
+[runlim] sample:		220.1 time, 220.4 real, 296.0 MB
+[runlim] sample:		230.1 time, 230.4 real, 305.0 MB
+[runlim] sample:		240.1 time, 240.4 real, 329.4 MB
+[runlim] end:			Tue May 29 06:04:54 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			242.74 seconds
+[runlim] time:			242.36 seconds
+[runlim] space:			329.4 MB
+[runlim] samples:		2423

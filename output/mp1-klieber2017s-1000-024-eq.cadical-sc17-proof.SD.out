@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/mp1-klieber2017s-1000-024-eq.cnf
+c Parsing DRAT proof proofs/mp1-klieber2017s-1000-024-eq.cadical-sc17-proof.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 17398
+np 844662
+nr 0
+dc 406115
+ds 406112
+dr 0
+tt 31776
+tp 2563
+tf 543
+tb 28670
+td 0

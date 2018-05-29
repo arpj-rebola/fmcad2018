@@ -1,0 +1,32 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.cnf
+[runlim] argv[2]:		proofs/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.glucose-4.1.drat
+[runlim] argv[3]:		-skip-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 04:50:15 2018
+[runlim] main pid:		3464
+[runlim] sample:		10.0 time, 10.2 real, 89.2 MB
+[runlim] sample:		20.0 time, 20.2 real, 113.1 MB
+[runlim] sample:		30.0 time, 30.2 real, 137.6 MB
+[runlim] sample:		40.0 time, 40.2 real, 163.7 MB
+[runlim] sample:		50.0 time, 50.2 real, 190.5 MB
+[runlim] sample:		60.0 time, 60.2 real, 218.3 MB
+[runlim] sample:		70.0 time, 70.2 real, 248.0 MB
+[runlim] sample:		80.0 time, 80.2 real, 278.9 MB
+[runlim] sample:		90.0 time, 90.2 real, 309.6 MB
+[runlim] sample:		100.0 time, 100.2 real, 331.0 MB
+[runlim] sample:		110.0 time, 110.2 real, 350.6 MB
+[runlim] end:			Tue May 29 04:52:09 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			114.07 seconds
+[runlim] time:			113.86 seconds
+[runlim] space:			350.6 MB
+[runlim] samples:		1139

@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/g2-T99.2.0.cnf
+c Parsing DRAT proof proofs/g2-T99.2.0.glucose-4.1.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 12115112
+np 120
+nr 0
+dc 0
+ds 0
+dr 0
+tt 767182
+tp 760516
+tf 3368
+tb 3297
+td 0

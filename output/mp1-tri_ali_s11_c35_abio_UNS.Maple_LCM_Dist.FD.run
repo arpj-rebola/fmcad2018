@@ -1,0 +1,21 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/mp1-tri_ali_s11_c35_abio_UNS.cnf
+[runlim] argv[2]:		proofs/mp1-tri_ali_s11_c35_abio_UNS.Maple_LCM_Dist.drat
+[runlim] argv[3]:		-full-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 04:58:35 2018
+[runlim] main pid:		4265
+[runlim] end:			Tue May 29 04:58:45 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			10.53 seconds
+[runlim] time:			9.70 seconds
+[runlim] space:			88.6 MB
+[runlim] samples:		97

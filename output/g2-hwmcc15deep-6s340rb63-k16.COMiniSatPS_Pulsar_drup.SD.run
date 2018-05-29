@@ -1,0 +1,46 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/g2-hwmcc15deep-6s340rb63-k16.cnf
+[runlim] argv[2]:		proofs/g2-hwmcc15deep-6s340rb63-k16.COMiniSatPS_Pulsar_drup.drat
+[runlim] argv[3]:		-skip-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 05:53:09 2018
+[runlim] main pid:		9576
+[runlim] sample:		10.0 time, 11.0 real, 153.0 MB
+[runlim] sample:		20.0 time, 20.9 real, 209.7 MB
+[runlim] sample:		30.0 time, 31.0 real, 218.5 MB
+[runlim] sample:		40.0 time, 41.0 real, 224.9 MB
+[runlim] sample:		50.0 time, 50.9 real, 231.1 MB
+[runlim] sample:		60.0 time, 61.0 real, 238.6 MB
+[runlim] sample:		70.0 time, 71.0 real, 246.1 MB
+[runlim] sample:		80.0 time, 80.9 real, 253.6 MB
+[runlim] sample:		90.0 time, 91.0 real, 262.3 MB
+[runlim] sample:		100.0 time, 101.0 real, 270.1 MB
+[runlim] sample:		110.0 time, 111.0 real, 278.3 MB
+[runlim] sample:		120.0 time, 121.0 real, 285.8 MB
+[runlim] sample:		130.0 time, 131.0 real, 293.6 MB
+[runlim] sample:		140.0 time, 141.0 real, 301.3 MB
+[runlim] sample:		150.0 time, 151.0 real, 308.8 MB
+[runlim] sample:		160.0 time, 161.0 real, 316.5 MB
+[runlim] sample:		170.0 time, 170.9 real, 324.5 MB
+[runlim] sample:		180.0 time, 181.0 real, 333.3 MB
+[runlim] sample:		190.0 time, 191.0 real, 341.0 MB
+[runlim] sample:		200.0 time, 200.9 real, 348.5 MB
+[runlim] sample:		210.0 time, 211.0 real, 356.7 MB
+[runlim] sample:		220.0 time, 221.0 real, 364.4 MB
+[runlim] sample:		230.0 time, 231.0 real, 373.6 MB
+[runlim] sample:		240.0 time, 241.0 real, 383.1 MB
+[runlim] sample:		250.0 time, 251.0 real, 407.9 MB
+[runlim] end:			Tue May 29 05:57:23 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			254.98 seconds
+[runlim] time:			254.03 seconds
+[runlim] space:			407.9 MB
+[runlim] samples:		2540

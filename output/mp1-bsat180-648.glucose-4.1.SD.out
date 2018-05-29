@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/mp1-bsat180-648.cnf
+c Parsing DRAT proof proofs/mp1-bsat180-648.glucose-4.1.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 648
+np 1774354
+nr 0
+dc 865029
+ds 865028
+dr 0
+tt 244008
+tp 3768
+tf 2697
+tb 237542
+td 0

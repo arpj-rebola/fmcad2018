@@ -1,0 +1,25 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/mp1-ps_5000_21250_3_0_0.8_0_1.50_0.cnf
+[runlim] argv[2]:		proofs/mp1-ps_5000_21250_3_0_0.8_0_1.50_0.Maple_LCM_Dist.drat
+[runlim] start:			Tue May 29 04:35:51 2018
+[runlim] main pid:		2492
+[runlim] sample:		10.0 time, 10.6 real, 80.3 MB
+[runlim] sample:		20.0 time, 20.6 real, 81.9 MB
+[runlim] sample:		30.0 time, 30.6 real, 82.6 MB
+[runlim] sample:		40.0 time, 40.6 real, 83.2 MB
+[runlim] sample:		50.0 time, 50.6 real, 83.9 MB
+[runlim] sample:		60.0 time, 60.6 real, 84.7 MB
+[runlim] sample:		70.0 time, 70.6 real, 86.0 MB
+[runlim] end:			Tue May 29 04:37:04 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			73.03 seconds
+[runlim] time:			72.39 seconds
+[runlim] space:			137.5 MB
+[runlim] samples:		724

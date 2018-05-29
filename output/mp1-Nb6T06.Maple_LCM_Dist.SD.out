@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/mp1-Nb6T06.cnf
+c Parsing DRAT proof proofs/mp1-Nb6T06.Maple_LCM_Dist.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 15840
+np 1215694
+nr 0
+dc 539675
+ds 539662
+dr 0
+tt 303105
+tp 11580
+tf 3770
+tb 287754
+td 0

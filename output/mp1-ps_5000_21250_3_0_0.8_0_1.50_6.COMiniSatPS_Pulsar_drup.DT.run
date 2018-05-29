@@ -1,0 +1,23 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.cnf
+[runlim] argv[2]:		proofs/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.COMiniSatPS_Pulsar_drup.drat
+[runlim] start:			Tue May 29 04:52:59 2018
+[runlim] main pid:		3849
+[runlim] sample:		10.0 time, 10.5 real, 67.8 MB
+[runlim] sample:		20.0 time, 20.5 real, 68.1 MB
+[runlim] sample:		30.0 time, 30.5 real, 68.1 MB
+[runlim] sample:		40.0 time, 40.5 real, 68.1 MB
+[runlim] sample:		50.0 time, 50.5 real, 68.1 MB
+[runlim] end:			Tue May 29 04:53:57 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			58.92 seconds
+[runlim] time:			58.38 seconds
+[runlim] space:			113.5 MB
+[runlim] samples:		584

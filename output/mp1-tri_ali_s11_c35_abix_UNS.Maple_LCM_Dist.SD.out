@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/mp1-tri_ali_s11_c35_abix_UNS.cnf
+c Parsing DRAT proof proofs/mp1-tri_ali_s11_c35_abix_UNS.Maple_LCM_Dist.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 2994
+np 1531531
+nr 0
+dc 644785
+ds 644452
+dr 0
+tt 1812207
+tp 4402
+tf 8073
+tb 1799732
+td 0

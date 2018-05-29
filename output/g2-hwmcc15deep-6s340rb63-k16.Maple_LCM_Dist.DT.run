@@ -1,0 +1,27 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/g2-hwmcc15deep-6s340rb63-k16.cnf
+[runlim] argv[2]:		proofs/g2-hwmcc15deep-6s340rb63-k16.Maple_LCM_Dist.drat
+[runlim] start:			Tue May 29 05:59:19 2018
+[runlim] main pid:		9986
+[runlim] sample:		10.0 time, 10.7 real, 208.6 MB
+[runlim] sample:		20.0 time, 20.7 real, 209.2 MB
+[runlim] sample:		30.0 time, 30.7 real, 209.9 MB
+[runlim] sample:		40.0 time, 40.7 real, 209.9 MB
+[runlim] sample:		50.0 time, 50.7 real, 209.9 MB
+[runlim] sample:		60.0 time, 60.7 real, 209.9 MB
+[runlim] sample:		70.0 time, 70.7 real, 209.9 MB
+[runlim] sample:		80.0 time, 80.7 real, 209.9 MB
+[runlim] sample:		90.0 time, 90.7 real, 209.9 MB
+[runlim] end:			Tue May 29 06:00:52 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			93.42 seconds
+[runlim] time:			92.73 seconds
+[runlim] space:			209.9 MB
+[runlim] samples:		927

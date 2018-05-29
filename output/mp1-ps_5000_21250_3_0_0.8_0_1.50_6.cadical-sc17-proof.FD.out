@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.cnf
+c Parsing DRAT proof proofs/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.cadical-sc17-proof.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 21250
+np 3035197
+nr 0
+dc 1497858
+ds 0
+dr 13
+tt 369269
+tp 8137
+tf 1531
+tb 359599
+td 0

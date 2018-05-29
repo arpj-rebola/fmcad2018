@@ -1,0 +1,22 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/g2-T99.2.0.cnf
+[runlim] argv[2]:		proofs/g2-T99.2.0.Maple_LCM_Dist.drat
+[runlim] start:			Tue May 29 04:39:53 2018
+[runlim] main pid:		2608
+[runlim] sample:		10.0 time, 10.3 real, 398.3 MB
+[runlim] sample:		20.0 time, 20.3 real, 657.1 MB
+[runlim] sample:		30.0 time, 30.3 real, 882.4 MB
+[runlim] sample:		40.0 time, 40.3 real, 983.6 MB
+[runlim] end:			Tue May 29 04:40:41 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			48.41 seconds
+[runlim] time:			48.06 seconds
+[runlim] space:			1645.4 MB
+[runlim] samples:		481

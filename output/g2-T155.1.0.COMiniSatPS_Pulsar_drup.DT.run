@@ -1,0 +1,25 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/g2-T155.1.0.cnf
+[runlim] argv[2]:		proofs/g2-T155.1.0.COMiniSatPS_Pulsar_drup.drat
+[runlim] start:			Tue May 29 04:44:41 2018
+[runlim] main pid:		3022
+[runlim] sample:		10.0 time, 10.4 real, 365.9 MB
+[runlim] sample:		20.0 time, 20.4 real, 592.1 MB
+[runlim] sample:		30.0 time, 30.4 real, 810.3 MB
+[runlim] sample:		40.0 time, 40.4 real, 1064.2 MB
+[runlim] sample:		50.0 time, 50.4 real, 1306.6 MB
+[runlim] sample:		60.0 time, 60.4 real, 1840.4 MB
+[runlim] sample:		70.0 time, 70.4 real, 1972.7 MB
+[runlim] end:			Tue May 29 04:45:59 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			78.17 seconds
+[runlim] time:			77.62 seconds
+[runlim] space:			1972.7 MB
+[runlim] samples:		777

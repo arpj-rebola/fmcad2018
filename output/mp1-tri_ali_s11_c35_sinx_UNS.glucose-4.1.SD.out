@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/mp1-tri_ali_s11_c35_sinx_UNS.cnf
+c Parsing DRAT proof proofs/mp1-tri_ali_s11_c35_sinx_UNS.glucose-4.1.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 3535
+np 1227680
+nr 0
+dc 603724
+ds 602791
+dr 0
+tt 268319
+tp 2472
+tf 2479
+tb 263367
+td 0

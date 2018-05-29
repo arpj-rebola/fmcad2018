@@ -1,0 +1,19 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/g2-T99.2.0.cnf
+[runlim] argv[2]:		proofs/g2-T99.2.0.glucose-4.1.drat
+[runlim] start:			Tue May 29 04:31:25 2018
+[runlim] main pid:		2080
+[runlim] sample:		10.0 time, 10.2 real, 393.4 MB
+[runlim] end:			Tue May 29 04:31:43 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			18.16 seconds
+[runlim] time:			17.89 seconds
+[runlim] space:			1061.4 MB
+[runlim] samples:		179

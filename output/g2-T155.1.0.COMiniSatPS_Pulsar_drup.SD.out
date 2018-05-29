@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/g2-T155.1.0.cnf
+c Parsing DRAT proof proofs/g2-T155.1.0.COMiniSatPS_Pulsar_drup.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 9433555
+np 41828812
+nr 0
+dc 20846947
+ds 20846300
+dr 0
+tt 2804591
+tp 2781656
+tf 11634
+tb 11300
+td 0

@@ -1,0 +1,22 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/mp1-bsat180-648.cnf
+[runlim] argv[2]:		proofs/mp1-bsat180-648.Maple_LCM_Dist.drat
+[runlim] start:			Tue May 29 04:58:45 2018
+[runlim] main pid:		4271
+[runlim] sample:		10.0 time, 10.6 real, 43.0 MB
+[runlim] sample:		20.0 time, 20.6 real, 44.0 MB
+[runlim] sample:		30.0 time, 30.6 real, 44.8 MB
+[runlim] sample:		40.0 time, 40.6 real, 46.1 MB
+[runlim] end:			Tue May 29 04:59:31 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			46.22 seconds
+[runlim] time:			45.59 seconds
+[runlim] space:			99.1 MB
+[runlim] samples:		456

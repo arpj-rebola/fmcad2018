@@ -1,0 +1,32 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.cnf
+[runlim] argv[2]:		proofs/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.Maple_LCM_Dist.drat
+[runlim] argv[3]:		-skip-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 05:03:43 2018
+[runlim] main pid:		5632
+[runlim] sample:		10.0 time, 10.7 real, 83.7 MB
+[runlim] sample:		20.0 time, 20.7 real, 97.9 MB
+[runlim] sample:		30.0 time, 30.7 real, 108.5 MB
+[runlim] sample:		40.0 time, 40.7 real, 123.4 MB
+[runlim] sample:		50.0 time, 50.7 real, 138.9 MB
+[runlim] sample:		60.0 time, 60.7 real, 153.9 MB
+[runlim] sample:		70.0 time, 70.7 real, 166.2 MB
+[runlim] sample:		80.0 time, 80.7 real, 179.3 MB
+[runlim] sample:		90.0 time, 90.7 real, 199.9 MB
+[runlim] sample:		100.0 time, 100.7 real, 215.4 MB
+[runlim] sample:		110.0 time, 110.7 real, 238.1 MB
+[runlim] end:			Tue May 29 05:05:40 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			117.99 seconds
+[runlim] time:			117.18 seconds
+[runlim] space:			251.6 MB
+[runlim] samples:		1172

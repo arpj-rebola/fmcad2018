@@ -1,0 +1,26 @@
+c Parsing CNF instance benchmarks/mp1-tri_ali_s11_c35_abix_UNS.cnf
+c Parsing DRAT proof proofs/mp1-tri_ali_s11_c35_abix_UNS.Maple_LCM_Dist.drat
+c Checking DRAT proof
+s REJECTED
+Detected an incorrect instruction at instruction 1534522.
+Introduced clause C: -892 40 0
+The folowing literals were derived by unit propagation on ~C without reaching a conflict:
+-801 -788 -783 -768 -765 -764 -758 -753 -752 -747 -742 -735 -734 -729 -724 -717 -716 -711 -710 -706 -696 -690 -685 -672 -646 -640 -635 -628 -622 -618 -612 -602 -600 -578 -576 -248 -40 -35 -34 -13 2 16 21 22 25 27 28 31 33 36 39 41 43 62 199 200 201 249 267 270 281 294 299 303 320 329 338 345 356 363 374 382 442 450 462 464 476 480 484 506 519 526 533 536 537 544 549 558 623 627 677 680 695 698 700 701 712 719 720 737 739 748 757 773 774 778 786 792 798 808 815 825 832 833 836 838 840 862 866 873 874 892 897 903 910 914 915 918 920 921 
+C was thus decided not to be a RUP clause in the accumulated formula.
+Furthermore, the following clause D was found in the accumulated formula:
+-38 -40 -792 -623 -267 -36 0
+C and D are resolvable upon literal 40.
+The folowing literals were derived by unit propagation on ~(C \/ D \ {-40} without reaching a conflict:
+-801 -788 -783 -768 -765 -764 -758 -753 -752 -747 -742 -735 -734 -729 -724 -717 -716 -711 -710 -706 -696 -690 -685 -672 -665 -655 -646 -640 -635 -628 -622 -618 -612 -602 -600 -578 -576 -248 -205 -40 -35 -34 -13 2 16 21 22 25 27 28 31 33 36 38 39 41 43 62 199 200 201 249 267 270 281 294 299 303 320 329 338 345 356 363 374 382 442 450 462 464 476 480 484 506 519 526 533 536 537 544 549 558 569 623 627 653 675 676 677 680 695 698 700 701 712 719 720 737 739 748 754 757 772 773 774 776 778 786 792 798 808 815 825 832 833 836 838 840 862 866 873 874 892 897 903 910 914 915 918 920 921 
+C was thus decided not to be a RAT clause in the accumulated formula upon the pivot 40 which first occurred in C in the input DRAT proof.
+nf 2994
+np 1531531
+nr 1
+dc 644785
+ds 0
+dr 69
+tt 10783
+tp 3683
+tf 7071
+tb 28
+td 0

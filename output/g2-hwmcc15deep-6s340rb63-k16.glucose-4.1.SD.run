@@ -1,0 +1,66 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/g2-hwmcc15deep-6s340rb63-k16.cnf
+[runlim] argv[2]:		proofs/g2-hwmcc15deep-6s340rb63-k16.glucose-4.1.drat
+[runlim] argv[3]:		-skip-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 04:57:50 2018
+[runlim] main pid:		4250
+[runlim] sample:		10.0 time, 10.6 real, 150.5 MB
+[runlim] sample:		20.0 time, 20.6 real, 162.2 MB
+[runlim] sample:		30.0 time, 30.6 real, 167.4 MB
+[runlim] sample:		40.0 time, 40.6 real, 171.8 MB
+[runlim] sample:		50.0 time, 50.6 real, 175.1 MB
+[runlim] sample:		60.0 time, 60.6 real, 178.7 MB
+[runlim] sample:		70.0 time, 70.6 real, 183.8 MB
+[runlim] sample:		80.0 time, 80.6 real, 190.8 MB
+[runlim] sample:		90.0 time, 90.6 real, 194.1 MB
+[runlim] sample:		100.0 time, 100.6 real, 195.9 MB
+[runlim] sample:		110.0 time, 110.6 real, 198.0 MB
+[runlim] sample:		120.0 time, 120.6 real, 200.8 MB
+[runlim] sample:		130.0 time, 130.6 real, 204.0 MB
+[runlim] sample:		140.0 time, 140.6 real, 205.1 MB
+[runlim] sample:		150.0 time, 150.6 real, 205.8 MB
+[runlim] sample:		160.0 time, 160.6 real, 206.3 MB
+[runlim] sample:		170.0 time, 170.6 real, 207.4 MB
+[runlim] sample:		179.9 time, 180.6 real, 209.4 MB
+[runlim] sample:		189.9 time, 190.6 real, 210.5 MB
+[runlim] sample:		199.9 time, 200.6 real, 212.5 MB
+[runlim] sample:		209.9 time, 210.6 real, 215.4 MB
+[runlim] sample:		219.9 time, 220.6 real, 219.0 MB
+[runlim] sample:		229.9 time, 230.6 real, 221.6 MB
+[runlim] sample:		239.9 time, 240.6 real, 223.4 MB
+[runlim] sample:		249.9 time, 250.6 real, 226.2 MB
+[runlim] sample:		259.9 time, 260.6 real, 229.3 MB
+[runlim] sample:		269.9 time, 270.6 real, 233.4 MB
+[runlim] sample:		279.9 time, 280.6 real, 236.0 MB
+[runlim] sample:		289.9 time, 290.6 real, 239.6 MB
+[runlim] sample:		299.9 time, 300.6 real, 244.5 MB
+[runlim] sample:		309.9 time, 310.6 real, 247.7 MB
+[runlim] sample:		319.9 time, 320.6 real, 252.8 MB
+[runlim] sample:		329.9 time, 330.6 real, 258.9 MB
+[runlim] sample:		339.9 time, 340.6 real, 262.8 MB
+[runlim] sample:		349.9 time, 350.6 real, 267.7 MB
+[runlim] sample:		359.9 time, 360.6 real, 273.6 MB
+[runlim] sample:		369.9 time, 370.6 real, 279.3 MB
+[runlim] sample:		379.9 time, 380.6 real, 284.7 MB
+[runlim] sample:		389.9 time, 390.6 real, 290.4 MB
+[runlim] sample:		399.9 time, 400.6 real, 298.1 MB
+[runlim] sample:		409.9 time, 410.6 real, 307.4 MB
+[runlim] sample:		419.9 time, 420.6 real, 313.1 MB
+[runlim] sample:		429.9 time, 430.6 real, 320.3 MB
+[runlim] sample:		439.9 time, 440.6 real, 327.7 MB
+[runlim] sample:		449.9 time, 450.6 real, 347.9 MB
+[runlim] end:			Tue May 29 05:05:22 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			452.06 seconds
+[runlim] time:			451.25 seconds
+[runlim] space:			347.9 MB
+[runlim] samples:		4514

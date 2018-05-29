@@ -1,0 +1,26 @@
+c Parsing CNF instance benchmarks/mp1-ps_5000_21250_3_0_0.8_0_1.50_0.cnf
+c Parsing DRAT proof proofs/mp1-ps_5000_21250_3_0_0.8_0_1.50_0.COMiniSatPS_Pulsar_drup.drat
+c Checking DRAT proof
+s REJECTED
+Detected an incorrect instruction at instruction 1131748.
+Introduced clause C: -2347 -77 13 0
+The folowing literals were derived by unit propagation on ~C without reaching a conflict:
+-4088 -3098 -50 -38 -26 -13 -11 -9 -7 -6 1 2 16 77 89 2347 4079 
+C was thus decided not to be a RUP clause in the accumulated formula.
+Furthermore, the following clause D was found in the accumulated formula:
+2347 -164 -22 0
+C and D are resolvable upon literal -2347.
+The folowing literals were derived by unit propagation on ~(C \/ D \ {2347} without reaching a conflict:
+-4088 -3098 -1824 -50 -38 -26 -13 -11 -9 -7 -6 1 2 16 22 77 89 164 2347 2749 3464 4079 
+C was thus decided not to be a RAT clause in the accumulated formula upon the pivot -2347 which first occurred in C in the input DRAT proof.
+nf 21250
+np 1110589
+nr 1
+dc 554085
+ds 0
+dr 36
+tt 3504
+tp 2884
+tf 610
+tb 10
+td 0

@@ -1,0 +1,33 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/mp1-tri_ali_s11_c35_sinz_UNS.cnf
+[runlim] argv[2]:		proofs/mp1-tri_ali_s11_c35_sinz_UNS.cadical-sc17-proof.drat
+[runlim] argv[3]:		-full-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 04:51:49 2018
+[runlim] main pid:		3814
+[runlim] sample:		10.0 time, 10.5 real, 65.3 MB
+[runlim] sample:		20.0 time, 20.5 real, 69.4 MB
+[runlim] sample:		30.0 time, 30.5 real, 73.2 MB
+[runlim] sample:		40.0 time, 40.5 real, 77.4 MB
+[runlim] sample:		50.0 time, 50.5 real, 81.2 MB
+[runlim] sample:		60.0 time, 60.5 real, 85.3 MB
+[runlim] sample:		70.0 time, 70.5 real, 90.0 MB
+[runlim] sample:		80.0 time, 80.5 real, 94.7 MB
+[runlim] sample:		90.0 time, 90.5 real, 99.6 MB
+[runlim] sample:		100.0 time, 100.5 real, 105.1 MB
+[runlim] sample:		110.0 time, 110.5 real, 110.9 MB
+[runlim] sample:		120.0 time, 120.5 real, 119.2 MB
+[runlim] end:			Tue May 29 04:53:53 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			124.88 seconds
+[runlim] time:			124.38 seconds
+[runlim] space:			124.0 MB
+[runlim] samples:		1244

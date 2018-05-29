@@ -1,0 +1,26 @@
+c Parsing CNF instance benchmarks/mp1-tri_ali_s11_c35_abix_UNS.cnf
+c Parsing DRAT proof proofs/mp1-tri_ali_s11_c35_abix_UNS.COMiniSatPS_Pulsar_drup.drat
+c Checking DRAT proof
+s REJECTED
+Detected an incorrect instruction at instruction 2030721.
+Introduced clause C: 494 -497 0
+The folowing literals were derived by unit propagation on ~C without reaching a conflict:
+-659 -614 -606 -604 -579 -499 -496 -494 -465 -449 -446 -349 -285 13 16 21 32 41 78 145 146 245 270 274 303 320 324 326 338 347 374 382 462 464 482 497 537 564 619 621 698 757 808 825 844 
+C was thus decided not to be a RUP clause in the accumulated formula.
+Furthermore, the following clause D was found in the accumulated formula:
+497 -502 0
+C and D are resolvable upon literal -497.
+The folowing literals were derived by unit propagation on ~(C \/ D \ {497} without reaching a conflict:
+-659 -620 -618 -614 -612 -606 -604 -600 -579 -578 -576 -514 -510 -509 -507 -504 -499 -496 -494 -489 -483 -478 -465 -449 -446 -349 -323 -285 -255 -250 -237 -215 -96 -19 13 16 21 32 41 78 145 146 202 238 245 248 270 274 303 320 324 326 331 338 344 347 351 352 370 374 375 376 377 382 383 405 462 464 482 497 502 506 516 518 535 537 546 564 619 621 698 757 808 825 844 
+C was thus decided not to be a RAT clause in the accumulated formula upon the pivot -497 which first occurred in C in the input DRAT proof.
+nf 2994
+np 2029659
+nr 1
+dc 1000842
+ds 0
+dr 75
+tt 10005
+tp 5266
+tf 4140
+tb 599
+td 0

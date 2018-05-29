@@ -1,0 +1,24 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/mp1-Nb5T06.cnf
+[runlim] argv[2]:		proofs/mp1-Nb5T06.cadical-sc17-proof.drat
+[runlim] start:			Tue May 29 04:20:44 2018
+[runlim] main pid:		1012
+[runlim] sample:		10.0 time, 10.8 real, 132.3 MB
+[runlim] sample:		20.0 time, 20.8 real, 132.6 MB
+[runlim] sample:		30.0 time, 30.8 real, 132.6 MB
+[runlim] sample:		40.0 time, 40.8 real, 132.6 MB
+[runlim] sample:		50.0 time, 50.8 real, 132.6 MB
+[runlim] sample:		60.0 time, 60.8 real, 132.6 MB
+[runlim] end:			Tue May 29 04:21:52 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			68.79 seconds
+[runlim] time:			68.01 seconds
+[runlim] space:			162.4 MB
+[runlim] samples:		680

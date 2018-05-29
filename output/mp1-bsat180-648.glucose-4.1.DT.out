@@ -1,0 +1,300 @@
+c turning on binary mode checking
+c parsing input formula with 180 variables and 648 clauses
+c WARNING: deleted clause on line 1449899 does not occur: [0] -134 -80 -78 -62 -3 88 124 164 0
+c WARNING: deleted clause on line 1449910 does not occur: [0] -78 -63 39 82 112 134 0
+c WARNING: deleted clause on line 1449936 does not occur: [0] -107 -86 -84 -78 -9 50 66 88 0
+c WARNING: deleted clause on line 1449945 does not occur: [0] -78 -71 1 25 37 73 91 0
+c WARNING: deleted clause on line 1449950 does not occur: [0] -78 -71 37 132 176 180 0
+c WARNING: deleted clause on line 1449955 does not occur: [0] -78 -66 -37 21 177 180 0
+c WARNING: deleted clause on line 1449959 does not occur: [0] -180 -168 -161 -78 -23 41 79 0
+c WARNING: deleted clause on line 1449998 does not occur: [0] -177 -107 -78 -52 -40 0
+c WARNING: deleted clause on line 1450002 does not occur: [0] -155 -154 -129 -78 -38 94 140 0
+c WARNING: deleted clause on line 1450011 does not occur: [0] -155 -106 -94 -78 -77 132 0
+c WARNING: deleted clause on line 1450045 does not occur: [0] -78 -56 -2 30 41 129 145 0
+c WARNING: deleted clause on line 1450047 does not occur: [0] -172 -78 -17 8 91 142 0
+c WARNING: deleted clause on line 1450057 does not occur: [0] -132 -122 -116 -109 -78 -15 126 0
+c WARNING: deleted clause on line 1450093 does not occur: [0] -144 -120 -78 119 125 161 0
+c WARNING: deleted clause on line 1450100 does not occur: [0] -179 -178 -78 -35 74 85 0
+c WARNING: deleted clause on line 1450136 does not occur: [0] -178 -147 -78 -70 -33 36 109 179 0
+c WARNING: deleted clause on line 1450138 does not occur: [0] -178 -78 -70 14 109 179 0
+c WARNING: deleted clause on line 1450148 does not occur: [0] -178 -121 -78 8 14 58 109 123 0
+c WARNING: deleted clause on line 1450165 does not occur: [0] -141 -124 -78 -69 98 125 156 172 0
+c WARNING: deleted clause on line 1450167 does not occur: [0] -78 -69 -34 -20 37 68 180 0
+c WARNING: deleted clause on line 1450173 does not occur: [0] -78 -77 -45 21 83 103 148 0
+c WARNING: deleted clause on line 1450305 does not occur: [0] -122 -90 -78 -20 31 37 170 180 0
+c WARNING: deleted clause on line 1450413 does not occur: [0] -90 -78 -20 -8 26 48 76 111 116 0
+c WARNING: deleted clause on line 1450433 does not occur: [0] -120 -78 -41 -3 75 85 176 0
+c WARNING: deleted clause on line 1450435 does not occur: [0] -151 -78 -26 46 88 114 123 0
+c WARNING: deleted clause on line 1450451 does not occur: [0] -103 -78 44 45 49 70 119 0
+c WARNING: deleted clause on line 1450544 does not occur: [0] -180 -161 -78 -71 -69 -52 41 0
+c WARNING: deleted clause on line 1450556 does not occur: [0] -126 -95 -78 -7 19 50 162 0
+c WARNING: deleted clause on line 1450598 does not occur: [0] -121 -95 -78 -55 -21 -1 5 14 36 109 140 0
+c WARNING: deleted clause on line 1450808 does not occur: [0] -124 -78 44 56 144 176 0
+c WARNING: deleted clause on line 1450817 does not occur: [0] -140 -133 -124 -78 -66 -39 -24 104 0
+c WARNING: deleted clause on line 1450840 does not occur: [0] -178 -151 -133 -81 -78 123 129 0
+c WARNING: deleted clause on line 1450841 does not occur: [0] -78 21 44 49 66 70 114 0
+c WARNING: deleted clause on line 1450842 does not occur: [0] -178 -121 -78 -1 5 14 109 140 0
+c WARNING: deleted clause on line 1450884 does not occur: [0] -78 -75 1 15 48 66 0
+c WARNING: deleted clause on line 1450935 does not occur: [0] -162 -129 -85 -78 25 152 0
+c WARNING: deleted clause on line 1450967 does not occur: [0] -132 -124 -78 -75 21 59 107 0
+c WARNING: deleted clause on line 1451058 does not occur: [0] -152 -133 -78 -40 -24 1 82 0
+c WARNING: deleted clause on line 1451078 does not occur: [0] -164 -78 -76 -71 1 15 48 52 0
+c WARNING: deleted clause on line 1451119 does not occur: [0] -144 -122 -78 -76 -20 119 180 0
+c WARNING: deleted clause on line 1451125 does not occur: [0] -178 -130 -110 -78 -34 67 138 0
+c WARNING: deleted clause on line 1451159 does not occur: [0] -161 -133 -78 -77 -69 -51 -39 0
+c WARNING: deleted clause on line 1451167 does not occur: [0] -147 -78 -39 1 19 88 125 0
+c WARNING: deleted clause on line 1451382 does not occur: [0] -147 -78 -53 -18 36 56 77 145 0
+c WARNING: deleted clause on line 1451400 does not occur: [0] -78 -46 32 37 132 176 177 180 0
+c WARNING: deleted clause on line 1451454 does not occur: [0] -178 -140 -78 14 42 82 83 0
+c WARNING: deleted clause on line 1451583 does not occur: [0] -148 -80 -78 -48 -42 -19 73 145 0
+c WARNING: deleted clause on line 1451894 does not occur: [0] -180 -121 -85 -78 -26 32 41 125 0
+c WARNING: deleted clause on line 1452742 does not occur: [0] -154 -95 -80 -78 -60 -54 -29 106 125 0
+c WARNING: deleted clause on line 1614987 does not occur: [0] -162 -20 48 117 180 0
+c WARNING: deleted clause on line 1614993 does not occur: [0] -118 -82 -10 33 117 128 0
+c WARNING: deleted clause on line 1615016 does not occur: [0] -88 15 36 97 117 0
+c WARNING: deleted clause on line 1615031 does not occur: [0] -95 -93 -54 57 117 178 0
+c WARNING: deleted clause on line 1615071 does not occur: [0] -134 -132 -111 56 117 130 0
+c WARNING: deleted clause on line 1615074 does not occur: [0] -140 -20 30 91 117 0
+c WARNING: deleted clause on line 1615077 does not occur: [0] -74 -27 -20 73 117 125 0
+c WARNING: deleted clause on line 1615116 does not occur: [0] -105 -60 -32 10 78 117 147 0
+c WARNING: deleted clause on line 1615132 does not occur: [0] -180 -174 -90 -52 27 117 151 0
+c WARNING: deleted clause on line 1615139 does not occur: [0] -89 -62 79 117 161 178 0
+c WARNING: deleted clause on line 1615142 does not occur: [0] -159 -119 -50 -16 117 129 143 0
+c WARNING: deleted clause on line 1615150 does not occur: [0] -178 -174 -140 -102 14 95 117 0
+c WARNING: deleted clause on line 1615169 does not occur: [0] -174 -158 -94 40 50 64 117 121 149 0
+c WARNING: deleted clause on line 1615170 does not occur: [0] -145 -20 -15 78 99 117 0
+c WARNING: deleted clause on line 1615172 does not occur: [0] 4 31 54 97 117 125 148 0
+c WARNING: deleted clause on line 1615173 does not occur: [0] -174 -159 -147 -140 -61 18 56 117 0
+c WARNING: deleted clause on line 1615191 does not occur: [0] -153 -119 -69 -62 -25 101 117 0
+c WARNING: deleted clause on line 1615194 does not occur: [0] -92 -20 -5 95 117 133 0
+c WARNING: deleted clause on line 1615201 does not occur: [0] -150 -36 1 112 117 133 0
+c WARNING: deleted clause on line 1615232 does not occur: [0] -20 -9 -4 73 78 117 0
+c WARNING: deleted clause on line 1615481 does not occur: [0] -121 -110 -61 -28 -21 64 92 117 133 0
+c WARNING: deleted clause on line 1615514 does not occur: [0] -156 -122 -110 30 91 117 0
+c WARNING: deleted clause on line 1615532 does not occur: [0] -152 -132 20 79 111 117 0
+c WARNING: deleted clause on line 1615536 does not occur: [0] -142 -133 -118 -105 -51 1 20 31 117 150 0
+c WARNING: deleted clause on line 1615537 does not occur: [0] -161 -106 39 47 73 117 134 0
+c WARNING: deleted clause on line 1615553 does not occur: [0] -142 -139 -133 -105 -56 10 31 117 0
+c WARNING: deleted clause on line 1615600 does not occur: [0] 27 31 73 77 117 180 0
+c WARNING: deleted clause on line 1615622 does not occur: [0] -110 18 38 98 117 152 154 169 178 0
+c WARNING: deleted clause on line 1615623 does not occur: [0] -132 -82 16 79 117 161 178 0
+c WARNING: deleted clause on line 1615630 does not occur: [0] -176 -154 -152 -112 -109 -20 -9 29 36 117 141 0
+c WARNING: deleted clause on line 1615671 does not occur: [0] -116 -21 24 54 88 117 151 163 0
+c WARNING: deleted clause on line 1615778 does not occur: [0] -74 -20 78 91 117 179 0
+c WARNING: deleted clause on line 1615934 does not occur: [0] -144 -118 -82 27 31 103 117 120 0
+c WARNING: deleted clause on line 1616110 does not occur: [0] -142 -132 -62 9 73 91 117 149 0
+c WARNING: deleted clause on line 1616152 does not occur: [0] -174 -158 -147 -22 -21 1 117 125 139 0
+c WARNING: deleted clause on line 1616183 does not occur: [0] -162 -43 -20 -12 44 93 117 0
+c WARNING: deleted clause on line 1616191 does not occur: [0] -107 -90 13 71 82 88 117 150 169 0
+c WARNING: deleted clause on line 1616222 does not occur: [0] -126 -121 -95 5 22 104 117 178 0
+c WARNING: deleted clause on line 1616260 does not occur: [0] -105 44 87 117 134 151 152 0
+c WARNING: deleted clause on line 1616398 does not occur: [0] -160 -158 -116 -105 2 46 113 117 174 178 0
+c WARNING: deleted clause on line 1697395 does not occur: [0] -117 -103 -97 -34 4 10 36 57 91 0
+c WARNING: deleted clause on line 1697396 does not occur: [0] -142 -141 -97 1 30 41 78 0
+c WARNING: deleted clause on line 1697405 does not occur: [0] -97 -81 -17 139 140 0
+c WARNING: deleted clause on line 1697410 does not occur: [0] -177 -97 -93 -65 -52 133 0
+c WARNING: deleted clause on line 1697411 does not occur: [0] -161 -97 -91 28 83 179 0
+c WARNING: deleted clause on line 1697414 does not occur: [0] -142 -97 -59 85 163 176 0
+c WARNING: deleted clause on line 1697420 does not occur: [0] -97 -74 -37 -32 26 76 176 0
+c WARNING: deleted clause on line 1697423 does not occur: [0] -97 -51 -37 -8 80 0
+c WARNING: deleted clause on line 1697438 does not occur: [0] -97 20 133 139 150 153 0
+c WARNING: deleted clause on line 1697440 does not occur: [0] -97 -37 -17 49 80 140 0
+c WARNING: deleted clause on line 1697441 does not occur: [0] -124 -97 -56 37 169 0
+c WARNING: deleted clause on line 1697458 does not occur: [0] -149 -97 -87 -69 -45 20 91 139 0
+c WARNING: deleted clause on line 1697459 does not occur: [0] -100 -97 -64 102 136 0
+c WARNING: deleted clause on line 1697462 does not occur: [0] -150 -97 -26 -17 8 78 114 0
+c WARNING: deleted clause on line 1697473 does not occur: [0] -101 -97 -96 -88 -74 -17 39 0
+c WARNING: deleted clause on line 1697474 does not occur: [0] -132 -97 1 57 88 90 177 0
+c WARNING: deleted clause on line 1697481 does not occur: [0] -97 -58 12 19 96 167 0
+c WARNING: deleted clause on line 1697492 does not occur: [0] -97 -88 -80 -61 -25 8 55 143 0
+c WARNING: deleted clause on line 1697493 does not occur: [0] -100 -97 -25 80 147 154 178 0
+c WARNING: deleted clause on line 1697515 does not occur: [0] -97 -77 -22 37 103 145 0
+c WARNING: deleted clause on line 1697525 does not occur: [0] -98 -97 -88 154 178 0
+c WARNING: deleted clause on line 1697559 does not occur: [0] -154 -152 -109 -100 -97 -88 71 73 180 0
+c WARNING: deleted clause on line 1697560 does not occur: [0] -154 -133 -97 -56 -34 -22 49 0
+c WARNING: deleted clause on line 1697615 does not occur: [0] -172 -130 -97 -92 18 56 110 0
+c WARNING: deleted clause on line 1697635 does not occur: [0] -97 -56 -51 -8 32 80 88 0
+c WARNING: deleted clause on line 1697646 does not occur: [0] -177 -117 -97 -52 11 41 56 0
+c WARNING: deleted clause on line 1697705 does not occur: [0] -168 -144 -97 -77 -51 37 178 0
+c WARNING: deleted clause on line 1697715 does not occur: [0] -124 -97 -83 3 21 41 44 0
+c WARNING: deleted clause on line 1697718 does not occur: [0] -174 -97 -77 -69 37 41 180 0
+c WARNING: deleted clause on line 1697848 does not occur: [0] -150 -97 -37 -26 53 91 139 178 0
+c WARNING: deleted clause on line 1697911 does not occur: [0] -169 -97 -76 -51 24 83 103 173 178 0
+c WARNING: deleted clause on line 1697925 does not occur: [0] -177 -161 -97 -74 -73 -37 92 178 0
+c WARNING: deleted clause on line 1697944 does not occur: [0] -98 -97 1 37 51 132 174 178 0
+c WARNING: deleted clause on line 1697992 does not occur: [0] -179 -164 -97 -66 32 48 82 145 178 0
+c WARNING: deleted clause on line 1698024 does not occur: [0] -174 -117 -109 -97 -92 -81 -13 79 91 0
+c WARNING: deleted clause on line 1698072 does not occur: [0] -179 -103 -97 -81 -17 16 140 0
+c WARNING: deleted clause on line 1698092 does not occur: [0] -178 -164 -151 -97 -81 123 139 0
+c WARNING: deleted clause on line 1698109 does not occur: [0] -161 -120 -97 -37 80 89 162 179 0
+c WARNING: deleted clause on line 1698116 does not occur: [0] -154 -107 -97 -65 30 53 66 91 0
+c WARNING: deleted clause on line 1698153 does not occur: [0] -177 -97 -6 33 41 47 0
+c WARNING: deleted clause on line 1698155 does not occur: [0] -141 -97 -28 -6 1 37 51 78 0
+c WARNING: deleted clause on line 1698170 does not occur: [0] -177 -97 -51 1 30 110 178 0
+c WARNING: deleted clause on line 1698192 does not occur: [0] -97 1 30 71 73 122 133 180 0
+c WARNING: deleted clause on line 1698240 does not occur: [0] -177 -120 -114 -97 -88 -51 -8 37 0
+c WARNING: deleted clause on line 1698243 does not occur: [0] -97 -32 37 70 96 103 122 0
+c WARNING: deleted clause on line 1698402 does not occur: [0] -178 -97 -46 32 57 71 109 179 0
+c WARNING: deleted clause on line 1698573 does not occur: [0] -97 -92 18 55 73 91 98 174 0
+c WARNING: deleted clause on line 1732993 does not occur: [0] -139 -112 -109 73 91 156 0
+c WARNING: deleted clause on line 1732995 does not occur: [0] -159 -139 -117 -96 -24 8 0
+c WARNING: deleted clause on line 1732998 does not occur: [0] -161 -79 -60 -37 -13 180 0
+c WARNING: deleted clause on line 1733017 does not occur: [0] -168 -91 -71 -60 78 116 0
+c WARNING: deleted clause on line 1733041 does not occur: [0] -154 -139 -130 -3 27 63 135 0
+c WARNING: deleted clause on line 1733044 does not occur: [0] -89 -60 -26 -3 37 76 86 0
+c WARNING: deleted clause on line 1733051 does not occur: [0] -143 -139 -62 -61 57 75 93 0
+c WARNING: deleted clause on line 1733052 does not occur: [0] -173 -139 -132 -35 95 103 0
+c WARNING: deleted clause on line 1733064 does not occur: [0] -147 -60 9 22 34 0
+c WARNING: deleted clause on line 1733066 does not occur: [0] -174 -139 -102 64 75 0
+c WARNING: deleted clause on line 1733097 does not occur: [0] -139 -116 -5 115 159 0
+c WARNING: deleted clause on line 1733103 does not occur: [0] -60 36 100 115 159 0
+c WARNING: deleted clause on line 1733105 does not occur: [0] -139 27 31 49 92 143 0
+c WARNING: deleted clause on line 1733110 does not occur: [0] -161 -139 -36 -19 28 57 59 0
+c WARNING: deleted clause on line 1733111 does not occur: [0] -173 -119 -77 -60 73 76 0
+c WARNING: deleted clause on line 1733112 does not occur: [0] -114 -96 -66 -60 4 67 0
+c WARNING: deleted clause on line 1733116 does not occur: [0] -176 -160 -116 -99 -66 -60 14 88 0
+c WARNING: deleted clause on line 1733124 does not occur: [0] -164 -139 -115 -3 19 85 134 0
+c WARNING: deleted clause on line 1733174 does not occur: [0] -139 -116 -95 -15 57 115 178 0
+c WARNING: deleted clause on line 1733196 does not occur: [0] -159 -99 -60 -52 104 145 157 0
+c WARNING: deleted clause on line 1733202 does not occur: [0] -69 -66 -60 -52 82 108 177 0
+c WARNING: deleted clause on line 1733205 does not occur: [0] -161 -141 -139 -117 -109 -35 51 89 0
+c WARNING: deleted clause on line 1733207 does not occur: [0] -159 -139 -133 13 15 73 147 0
+c WARNING: deleted clause on line 1733220 does not occur: [0] -90 -60 -32 -10 87 147 149 0
+c WARNING: deleted clause on line 1733225 does not occur: [0] -139 -61 54 57 172 0
+c WARNING: deleted clause on line 1733230 does not occur: [0] -139 -111 -20 3 4 45 143 0
+c WARNING: deleted clause on line 1733256 does not occur: [0] -116 -60 -49 -32 -21 101 108 0
+c WARNING: deleted clause on line 1733269 does not occur: [0] -173 -139 -76 -65 -10 132 0
+c WARNING: deleted clause on line 1733281 does not occur: [0] -80 -60 -52 -46 108 119 158 0
+c WARNING: deleted clause on line 1733285 does not occur: [0] -176 -135 -63 -60 6 43 72 0
+c WARNING: deleted clause on line 1733300 does not occur: [0] -115 -99 -74 -60 -53 -52 -24 104 108 146 0
+c WARNING: deleted clause on line 1733312 does not occur: [0] -139 9 73 75 78 133 143 0
+c WARNING: deleted clause on line 1733318 does not occur: [0] -159 -117 -116 -80 -60 -52 76 131 0
+c WARNING: deleted clause on line 1733321 does not occur: [0] -139 -65 -46 42 84 178 0
+c WARNING: deleted clause on line 1733338 does not occur: [0] -139 -66 -20 -5 21 67 99 0
+c WARNING: deleted clause on line 1733348 does not occur: [0] -167 -146 -144 -66 -60 -26 -8 0
+c WARNING: deleted clause on line 1733387 does not occur: [0] -139 -117 -71 4 6 64 0
+c WARNING: deleted clause on line 1733405 does not occur: [0] -173 -156 -90 -60 -23 87 94 147 0
+c WARNING: deleted clause on line 1733458 does not occur: [0] -152 -139 -65 22 33 60 82 0
+c WARNING: deleted clause on line 1733496 does not occur: [0] -152 -109 -92 -60 -54 -45 9 70 154 0
+c WARNING: deleted clause on line 1733516 does not occur: [0] -167 -142 -60 37 55 97 118 0
+c WARNING: deleted clause on line 1733556 does not occur: [0] -139 -133 -25 -24 2 163 0
+c WARNING: deleted clause on line 1733589 does not occur: [0] -115 -60 -34 -31 -3 39 156 0
+c WARNING: deleted clause on line 1733594 does not occur: [0] -155 -116 -90 -60 -32 108 127 0
+c WARNING: deleted clause on line 1733609 does not occur: [0] -176 -114 -95 -63 -60 5 37 0
+c WARNING: deleted clause on line 1733628 does not occur: [0] -139 -66 34 39 73 82 134 138 0
+c WARNING: deleted clause on line 1733665 does not occur: [0] -157 -144 -77 -71 -60 108 0
+c WARNING: deleted clause on line 1733678 does not occur: [0] -176 -114 -60 36 73 115 0
+c WARNING: deleted clause on line 1733714 does not occur: [0] -139 -71 15 27 133 143 0
+c WARNING: deleted clause on line 1733752 does not occur: [0] -172 -146 -130 -60 67 98 140 0
+c WARNING: deleted clause on line 1733810 does not occur: [0] -139 -76 -65 8 89 105 127 140 0
+c WARNING: deleted clause on line 1733841 does not occur: [0] -176 -93 -60 -46 -17 6 95 108 0
+c WARNING: deleted clause on line 1733871 does not occur: [0] -148 -82 -68 -60 -25 154 0
+c WARNING: deleted clause on line 1733879 does not occur: [0] -157 -91 -77 -71 -69 -60 41 94 177 0
+c WARNING: deleted clause on line 1733920 does not occur: [0] -116 -114 -86 -60 -53 -46 85 89 132 0
+c WARNING: deleted clause on line 1733982 does not occur: [0] -160 -139 -116 -51 -32 -4 27 88 0
+c WARNING: deleted clause on line 1734105 does not occur: [0] -144 -139 -75 -48 59 80 91 0
+c WARNING: deleted clause on line 1734112 does not occur: [0] -178 -144 -139 -48 -8 56 0
+c WARNING: deleted clause on line 1734152 does not occur: [0] -161 -139 -133 -84 -51 88 129 172 0
+c WARNING: deleted clause on line 1734215 does not occur: [0] -179 -139 -86 -68 -28 41 141 0
+c WARNING: deleted clause on line 1734217 does not occur: [0] -160 -139 -130 18 25 65 91 0
+c WARNING: deleted clause on line 1734356 does not occur: [0] -164 -141 -112 -109 -60 21 103 154 0
+c WARNING: deleted clause on line 1734488 does not occur: [0] -156 -152 -139 -117 55 78 90 115 0
+c WARNING: deleted clause on line 1734576 does not occur: [0] -114 -80 -71 -60 -52 108 119 158 0
+c WARNING: deleted clause on line 1762031 does not occur: [0] -148 -117 -116 51 83 99 152 0
+c WARNING: deleted clause on line 1762036 does not occur: [0] -116 -94 -21 -1 75 95 0
+c WARNING: deleted clause on line 1762069 does not occur: [0] -116 -106 -17 -12 59 75 149 0
+c WARNING: deleted clause on line 1762075 does not occur: [0] -116 42 89 94 103 134 0
+c WARNING: deleted clause on line 1762097 does not occur: [0] -159 -117 -116 -104 76 108 119 120 0
+c WARNING: deleted clause on line 1762098 does not occur: [0] -176 -116 -43 52 73 132 0
+c WARNING: deleted clause on line 1762100 does not occur: [0] -156 -116 -87 -77 23 25 73 94 0
+c WARNING: deleted clause on line 1762121 does not occur: [0] -169 -160 -116 -114 -75 -1 40 0
+c WARNING: deleted clause on line 1762122 does not occur: [0] -143 -116 -86 -52 28 57 150 0
+c WARNING: deleted clause on line 1762127 does not occur: [0] -116 -57 -44 -42 -15 104 125 0
+c WARNING: deleted clause on line 1762129 does not occur: [0] -157 -122 -116 -109 34 77 166 0
+c WARNING: deleted clause on line 1762135 does not occur: [0] -155 -124 -116 -111 -85 -5 161 0
+c WARNING: deleted clause on line 1762141 does not occur: [0] -164 -116 -27 19 39 54 121 0
+c WARNING: deleted clause on line 1762175 does not occur: [0] -116 -109 -64 -33 18 59 141 159 0
+c WARNING: deleted clause on line 1762181 does not occur: [0] -132 -116 -72 -46 21 114 150 0
+c WARNING: deleted clause on line 1762187 does not occur: [0] -162 -147 -116 22 23 66 0
+c WARNING: deleted clause on line 1762189 does not occur: [0] -116 -58 -27 54 159 0
+c WARNING: deleted clause on line 1762192 does not occur: [0] -122 -116 28 133 138 141 174 177 0
+c WARNING: deleted clause on line 1762208 does not occur: [0] -176 -116 -43 9 24 0
+c WARNING: deleted clause on line 1762209 does not occur: [0] -148 -120 -116 -69 66 78 101 112 138 0
+c WARNING: deleted clause on line 1762212 does not occur: [0] -148 -116 -94 -92 -73 -20 27 54 79 0
+c WARNING: deleted clause on line 1762214 does not occur: [0] -176 -124 -116 -94 -77 74 76 132 0
+c WARNING: deleted clause on line 1762215 does not occur: [0] -180 -116 -58 -53 -5 106 165 0
+c WARNING: deleted clause on line 1762216 does not occur: [0] -116 6 54 98 170 0
+c WARNING: deleted clause on line 1762223 does not occur: [0] -158 -116 -53 15 17 101 144 0
+c WARNING: deleted clause on line 1762227 does not occur: [0] -116 -108 -77 23 41 63 164 0
+c WARNING: deleted clause on line 1762248 does not occur: [0] -116 -114 -94 -50 4 103 146 0
+c WARNING: deleted clause on line 1762255 does not occur: [0] -162 -116 -57 -20 13 48 125 0
+c WARNING: deleted clause on line 1762256 does not occur: [0] -162 -116 -93 -88 -61 24 132 0
+c WARNING: deleted clause on line 1762257 does not occur: [0] -180 -168 -148 -116 -95 -65 -44 79 0
+c WARNING: deleted clause on line 1762258 does not occur: [0] -145 -116 14 16 154 164 174 0
+c WARNING: deleted clause on line 1762261 does not occur: [0] -116 24 25 101 176 180 0
+c WARNING: deleted clause on line 1762290 does not occur: [0] -116 -109 -43 52 83 132 0
+c WARNING: deleted clause on line 1762310 does not occur: [0] -142 -116 -65 -2 9 73 78 178 0
+c WARNING: deleted clause on line 1762311 does not occur: [0] -162 -143 -124 -116 -101 21 125 0
+c WARNING: deleted clause on line 1762319 does not occur: [0] -116 -48 -34 -15 24 39 96 0
+c WARNING: deleted clause on line 1762325 does not occur: [0] -116 24 25 106 176 180 0
+c WARNING: deleted clause on line 1762330 does not occur: [0] -116 -53 -45 27 76 177 178 180 0
+c WARNING: deleted clause on line 1762346 does not occur: [0] -148 -146 -144 -116 51 83 152 173 178 0
+c WARNING: deleted clause on line 1762374 does not occur: [0] -116 -59 -54 88 105 166 0
+c WARNING: deleted clause on line 1762404 does not occur: [0] -116 -69 -36 85 97 119 164 0
+c WARNING: deleted clause on line 1762410 does not occur: [0] -116 -93 -76 33 41 164 174 177 0
+c WARNING: deleted clause on line 1762415 does not occur: [0] -162 -116 -93 -76 -61 22 81 0
+c WARNING: deleted clause on line 1762428 does not occur: [0] -116 -104 -79 -48 -46 0
+c WARNING: deleted clause on line 1762436 does not occur: [0] -170 -116 3 21 44 159 0
+c WARNING: deleted clause on line 1762439 does not occur: [0] -167 -148 -116 -44 -8 -3 94 132 0
+c WARNING: deleted clause on line 1762440 does not occur: [0] -119 -116 -54 -20 76 105 155 0
+c WARNING: deleted clause on line 1762441 does not occur: [0] -176 -164 -116 -103 -93 -8 132 0
+c WARNING: deleted clause on line 1762447 does not occur: [0] -169 -116 -93 -27 44 54 125 0
+c WARNING: deleted clause on line 1762451 does not occur: [0] -162 -152 -116 -108 -46 -33 37 77 0
+c WARNING: deleted clause on line 1762452 does not occur: [0] -122 -116 -10 37 91 170 0
+c WARNING: deleted clause on line 1762466 does not occur: [0] -141 -116 -93 -76 -61 67 166 0
+c WARNING: deleted clause on line 1762485 does not occur: [0] -171 -116 -88 23 120 164 0
+c WARNING: deleted clause on line 1762491 does not occur: [0] -177 -169 -124 -116 -48 79 83 178 0
+c WARNING: deleted clause on line 1762496 does not occur: [0] -116 -2 66 67 73 120 0
+c WARNING: deleted clause on line 1762547 does not occur: [0] -164 -117 -116 -94 64 75 137 0
+c WARNING: deleted clause on line 1762557 does not occur: [0] -159 -116 -101 -80 -54 -40 -20 76 131 0
+c WARNING: deleted clause on line 1762558 does not occur: [0] -116 -94 -74 -43 -4 88 96 0
+c WARNING: deleted clause on line 1762596 does not occur: [0] -116 -114 -53 76 127 132 175 178 0
+c WARNING: deleted clause on line 1762599 does not occur: [0] -170 -116 -21 2 38 89 174 0
+c WARNING: deleted clause on line 1762606 does not occur: [0] -116 -79 -59 -48 145 157 0
+c WARNING: deleted clause on line 1762607 does not occur: [0] -116 -114 -72 97 127 132 154 0
+c WARNING: deleted clause on line 1762611 does not occur: [0] -116 -54 -50 -31 11 28 0
+c WARNING: deleted clause on line 1762707 does not occur: [0] -119 -116 19 51 57 102 155 0
+c WARNING: deleted clause on line 1762716 does not occur: [0] -176 -116 -94 -48 132 149 155 178 0
+c WARNING: deleted clause on line 1762766 does not occur: [0] -177 -116 25 63 73 91 92 0
+c WARNING: deleted clause on line 1762767 does not occur: [0] -180 -116 -101 -27 54 106 159 178 0
+c WARNING: deleted clause on line 1762804 does not occur: [0] -116 -2 27 66 73 123 135 0
+c WARNING: deleted clause on line 1762935 does not occur: [0] -170 -116 -80 -20 8 46 119 164 0
+c WARNING: deleted clause on line 1762990 does not occur: [0] -176 -141 -116 -114 -108 -65 165 177 0
+c WARNING: deleted clause on line 1763016 does not occur: [0] -176 -116 -103 -93 -8 24 132 0
+c WARNING: deleted clause on line 1763054 does not occur: [0] -169 -116 -113 -94 -49 44 137 175 0
+c WARNING: deleted clause on line 1763077 does not occur: [0] -133 -125 -116 -114 44 119 164 179 0
+c WARNING: deleted clause on line 1763115 does not occur: [0] -116 -115 -48 -12 17 26 80 131 0
+c WARNING: deleted clause on line 1763169 does not occur: [0] -156 -130 -128 -119 -116 -47 17 51 0
+c WARNING: deleted clause on line 1763216 does not occur: [0] -116 -53 -48 127 132 141 0
+c WARNING: deleted clause on line 1763217 does not occur: [0] -160 -116 -81 -62 42 43 79 128 146 0
+c WARNING: deleted clause on line 1763222 does not occur: [0] -132 -116 -106 -94 -46 -17 93 150 0
+c WARNING: deleted clause on line 1763227 does not occur: [0] -175 -145 -116 -93 -43 58 108 166 0
+c WARNING: deleted clause on line 1763238 does not occur: [0] -158 -154 -116 -91 -20 56 64 76 172 0
+c WARNING: deleted clause on line 1763305 does not occur: [0] -116 -47 58 74 135 148 159 177 0
+c WARNING: deleted clause on line 1763344 does not occur: [0] -164 -153 -124 -116 -99 -25 -12 0
+c WARNING: deleted clause on line 1763381 does not occur: [0] -162 -160 -116 -115 -95 7 126 138 159 0
+c WARNING: deleted clause on line 1763571 does not occur: [0] -116 -106 -94 42 52 64 79 132 0
+c WARNING: deleted clause on line 1763758 does not occur: [0] -148 -135 -116 -65 -20 28 124 0
+c WARNING: deleted clause on line 1763764 does not occur: [0] -116 -103 -96 -48 -1 95 146 149 0
+c WARNING: deleted clause on line 1764262 does not occur: [0] -116 -44 37 63 64 164 0
+c WARNING: deleted clause on line 1764264 does not occur: [0] -124 -116 -77 -53 74 76 132 0
+c WARNING: deleted clause on line 1764354 does not occur: [0] -155 -131 -116 -77 -20 29 100 103 104 127 0
+c WARNING: deleted clause on line 1764517 does not occur: [0] -132 -123 -116 -15 24 53 101 0
+c WARNING: deleted clause on line 1764528 does not occur: [0] -116 -67 -61 52 95 102 125 140 0
+c finished parsing, read 44186895 bytes from proof file
+c detected empty clause; start verification via backward checking
+c 648 of 648 clauses in core                            
+c 708140 of 909035 lemmas in core using 18732014 resolution steps
+c 0 RAT lemmas in core; 304613 redundant literals in core lemmas
+s VERIFIED
+c verification time: 76.908 seconds

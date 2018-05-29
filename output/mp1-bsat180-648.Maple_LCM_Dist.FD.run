@@ -1,0 +1,21 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/mp1-bsat180-648.cnf
+[runlim] argv[2]:		proofs/mp1-bsat180-648.Maple_LCM_Dist.drat
+[runlim] argv[3]:		-full-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 05:02:49 2018
+[runlim] main pid:		5623
+[runlim] end:			Tue May 29 05:02:53 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			4.48 seconds
+[runlim] time:			3.60 seconds
+[runlim] space:			47.5 MB
+[runlim] samples:		36

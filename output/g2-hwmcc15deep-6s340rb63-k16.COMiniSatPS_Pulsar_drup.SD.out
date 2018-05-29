@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/g2-hwmcc15deep-6s340rb63-k16.cnf
+c Parsing DRAT proof proofs/g2-hwmcc15deep-6s340rb63-k16.COMiniSatPS_Pulsar_drup.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 363619
+np 3440298
+nr 0
+dc 1760690
+ds 1759655
+dr 0
+tt 249495
+tp 11156
+tf 3499
+tb 234839
+td 0

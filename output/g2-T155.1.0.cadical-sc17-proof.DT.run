@@ -1,0 +1,21 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/g2-T155.1.0.cnf
+[runlim] argv[2]:		proofs/g2-T155.1.0.cadical-sc17-proof.drat
+[runlim] start:			Tue May 29 04:53:53 2018
+[runlim] main pid:		3854
+[runlim] sample:		10.0 time, 10.9 real, 393.1 MB
+[runlim] sample:		20.0 time, 20.9 real, 647.4 MB
+[runlim] sample:		30.0 time, 30.9 real, 1182.5 MB
+[runlim] end:			Tue May 29 04:54:33 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			40.79 seconds
+[runlim] time:			39.78 seconds
+[runlim] space:			1200.6 MB
+[runlim] samples:		398

@@ -1,0 +1,33 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.cnf
+[runlim] argv[2]:		proofs/mp1-ps_5000_21250_3_0_0.8_0_1.50_6.COMiniSatPS_Pulsar_drup.drat
+[runlim] argv[3]:		-skip-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 04:53:57 2018
+[runlim] main pid:		3857
+[runlim] sample:		10.0 time, 10.9 real, 75.8 MB
+[runlim] sample:		20.0 time, 20.9 real, 94.7 MB
+[runlim] sample:		30.0 time, 30.9 real, 111.1 MB
+[runlim] sample:		40.0 time, 40.9 real, 128.9 MB
+[runlim] sample:		50.0 time, 50.9 real, 146.9 MB
+[runlim] sample:		60.0 time, 60.9 real, 163.9 MB
+[runlim] sample:		70.0 time, 70.9 real, 186.1 MB
+[runlim] sample:		80.0 time, 80.9 real, 203.0 MB
+[runlim] sample:		90.0 time, 90.9 real, 224.0 MB
+[runlim] sample:		100.0 time, 100.9 real, 242.7 MB
+[runlim] sample:		110.0 time, 110.9 real, 262.1 MB
+[runlim] sample:		120.0 time, 120.9 real, 285.0 MB
+[runlim] end:			Tue May 29 04:56:00 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			123.71 seconds
+[runlim] time:			122.69 seconds
+[runlim] space:			285.0 MB
+[runlim] samples:		1227

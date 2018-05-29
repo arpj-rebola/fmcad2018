@@ -1,0 +1,22 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/g2-hwmcc15deep-6s340rb63-k16.cnf
+[runlim] argv[2]:		proofs/g2-hwmcc15deep-6s340rb63-k16.cadical-sc17-proof.drat
+[runlim] argv[3]:		-skip-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 05:57:48 2018
+[runlim] main pid:		9966
+[runlim] sample:		10.0 time, 10.9 real, 1296.2 MB
+[runlim] end:			Tue May 29 05:58:07 2018
+[runlim] status:		out of memory
+[runlim] result:		3
+[runlim] children:		0
+[runlim] real:			19.20 seconds
+[runlim] time:			18.14 seconds
+[runlim] space:			8198.3 MB
+[runlim] samples:		182

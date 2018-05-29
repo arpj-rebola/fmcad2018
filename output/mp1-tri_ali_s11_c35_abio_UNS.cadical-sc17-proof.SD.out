@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/mp1-tri_ali_s11_c35_abio_UNS.cnf
+c Parsing DRAT proof proofs/mp1-tri_ali_s11_c35_abio_UNS.cadical-sc17-proof.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 2968
+np 2761486
+nr 0
+dc 1359090
+ds 1358920
+dr 0
+tt 508688
+tp 7455
+tf 4095
+tb 497137
+td 0

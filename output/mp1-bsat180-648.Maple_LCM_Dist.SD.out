@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/mp1-bsat180-648.cnf
+c Parsing DRAT proof proofs/mp1-bsat180-648.Maple_LCM_Dist.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 648
+np 833393
+nr 0
+dc 355278
+ds 355277
+dr 0
+tt 196667
+tp 1867
+tf 1592
+tb 193206
+td 0

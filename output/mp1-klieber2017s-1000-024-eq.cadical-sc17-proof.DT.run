@@ -1,0 +1,18 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/mp1-klieber2017s-1000-024-eq.cnf
+[runlim] argv[2]:		proofs/mp1-klieber2017s-1000-024-eq.cadical-sc17-proof.drat
+[runlim] start:			Tue May 29 05:40:40 2018
+[runlim] main pid:		8770
+[runlim] end:			Tue May 29 05:40:47 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			7.35 seconds
+[runlim] time:			6.40 seconds
+[runlim] space:			112.3 MB
+[runlim] samples:		64

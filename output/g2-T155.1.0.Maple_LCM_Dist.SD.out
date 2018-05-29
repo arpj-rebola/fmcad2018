@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/g2-T155.1.0.cnf
+c Parsing DRAT proof proofs/g2-T155.1.0.Maple_LCM_Dist.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 9433555
+np 41854757
+nr 0
+dc 20847173
+ds 20846654
+dr 0
+tt 2574508
+tp 2553418
+tf 10662
+tb 10427
+td 0

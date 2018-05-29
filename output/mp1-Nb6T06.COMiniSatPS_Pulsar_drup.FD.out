@@ -1,0 +1,26 @@
+c Parsing CNF instance benchmarks/mp1-Nb6T06.cnf
+c Parsing DRAT proof proofs/mp1-Nb6T06.COMiniSatPS_Pulsar_drup.drat
+c Checking DRAT proof
+s REJECTED
+Detected an incorrect instruction at instruction 1436564.
+Introduced clause C: 3021 -2471 1014 -2435 0
+The folowing literals were derived by unit propagation on ~C without reaching a conflict:
+-3021 -3020 -3019 -2469 -2414 -2399 -2393 -2392 -2391 -2030 -2018 -2012 -2006 -1982 -1646 -1634 -1628 -1622 -1598 -1592 -1586 -1583 -1577 -1559 -1547 -1541 -1529 -1523 -1511 -1505 -1499 -1487 -1481 -1475 -1463 -1457 -1439 -1433 -1427 -1415 -1409 -1403 -1391 -1385 -1379 -1367 -1361 -1343 -1337 -1331 -1319 -1313 -1307 -1295 -1289 -1283 -1277 -1265 -1259 -1253 -1241 -1235 -1232 -1217 -1208 -1202 -1193 -1190 -1014 -848 -842 -836 -830 -824 -818 -812 -806 -800 -794 -452 -422 -416 -404 -398 -62 -56 -50 -44 -38 -26 -20 -14 -8 -2 2385 2389 2416 2418 2435 2471 
+C was thus decided not to be a RUP clause in the accumulated formula.
+Furthermore, the following clause D was found in the accumulated formula:
+-3021 3020 0
+C and D are resolvable upon literal 3021.
+The folowing literals were derived by unit propagation on ~(C \/ D \ {-3021} without reaching a conflict:
+-3021 -3020 -3019 -2469 -2414 -2399 -2393 -2392 -2391 -2030 -2018 -2012 -2006 -1982 -1646 -1634 -1628 -1622 -1598 -1592 -1586 -1583 -1577 -1559 -1547 -1541 -1529 -1523 -1511 -1505 -1499 -1487 -1481 -1475 -1463 -1457 -1439 -1433 -1427 -1415 -1409 -1403 -1391 -1385 -1379 -1367 -1361 -1343 -1337 -1331 -1319 -1313 -1307 -1295 -1289 -1283 -1277 -1265 -1259 -1253 -1241 -1235 -1232 -1217 -1208 -1202 -1193 -1190 -1014 -848 -842 -836 -830 -824 -818 -812 -806 -800 -794 -452 -422 -416 -404 -398 -62 -56 -50 -44 -38 -26 -20 -14 -8 -2 2385 2389 2416 2418 2435 2471 
+C was thus decided not to be a RAT clause in the accumulated formula upon the pivot 3021 which first occurred in C in the input DRAT proof.
+nf 15840
+np 1421544
+nr 1
+dc 700350
+ds 0
+dr 2
+tt 6179
+tp 3595
+tf 2387
+tb 195
+td 0

@@ -1,0 +1,21 @@
+c Parsing CNF instance benchmarks/mp1-ps_5000_21250_3_0_0.8_0_1.50_0.cnf
+c Parsing DRAT proof proofs/mp1-ps_5000_21250_3_0_0.8_0_1.50_0.glucose-4.1.drat
+c Checking DRAT proof
+s REJECTED
+Detected an incorrect instruction at instruction 1398065.
+Introduced clause C: 0
+The folowing literals were derived by unit propagation on ~C without reaching a conflict:
+-4996 -2905 -2486 -1815 -1186 -873 -675 -605 -38 -13 -12 -11 -10 -8 -4 -2 -1 5 6 15 16 35 43 47 946 1249 1424 1694 2121 3018 3659 3894 
+C was thus decided not to be a RUP clause in the accumulated formula.
+Furthermore, C is the empty clause, so C cannot be a RAT.
+nf 21250
+np 1376815
+nr 0
+dc 686207
+ds 0
+dr 20
+tt 3923
+tp 3438
+tf 485
+tb 0
+td 0

@@ -1,0 +1,22 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/mp1-tri_ali_s11_c35_abix_UNS.cnf
+[runlim] argv[2]:		proofs/mp1-tri_ali_s11_c35_abix_UNS.COMiniSatPS_Pulsar_drup.drat
+[runlim] argv[3]:		-full-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 04:38:09 2018
+[runlim] main pid:		2538
+[runlim] sample:		10.0 time, 10.1 real, 55.6 MB
+[runlim] end:			Tue May 29 04:38:19 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			10.14 seconds
+[runlim] time:			10.00 seconds
+[runlim] space:			115.9 MB
+[runlim] samples:		100

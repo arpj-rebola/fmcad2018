@@ -1,0 +1,23 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/mp1-tri_ali_s11_c35_sinz_UNS.cnf
+[runlim] argv[2]:		proofs/mp1-tri_ali_s11_c35_sinz_UNS.glucose-4.1.drat
+[runlim] start:			Tue May 29 04:48:27 2018
+[runlim] main pid:		3423
+[runlim] sample:		10.0 time, 10.0 real, 52.4 MB
+[runlim] sample:		20.0 time, 20.0 real, 52.4 MB
+[runlim] sample:		30.0 time, 30.0 real, 52.4 MB
+[runlim] sample:		40.0 time, 40.0 real, 52.4 MB
+[runlim] sample:		50.0 time, 50.0 real, 52.4 MB
+[runlim] end:			Tue May 29 04:49:19 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			52.21 seconds
+[runlim] time:			52.09 seconds
+[runlim] space:			98.9 MB
+[runlim] samples:		521

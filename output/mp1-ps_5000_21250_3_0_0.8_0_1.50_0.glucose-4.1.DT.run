@@ -1,0 +1,24 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/mp1-ps_5000_21250_3_0_0.8_0_1.50_0.cnf
+[runlim] argv[2]:		proofs/mp1-ps_5000_21250_3_0_0.8_0_1.50_0.glucose-4.1.drat
+[runlim] start:			Tue May 29 04:28:39 2018
+[runlim] main pid:		1692
+[runlim] sample:		10.0 time, 10.4 real, 86.6 MB
+[runlim] sample:		20.0 time, 20.4 real, 86.6 MB
+[runlim] sample:		30.0 time, 30.4 real, 86.6 MB
+[runlim] sample:		40.0 time, 40.4 real, 86.6 MB
+[runlim] sample:		50.0 time, 50.4 real, 86.6 MB
+[runlim] sample:		60.0 time, 60.4 real, 87.1 MB
+[runlim] end:			Tue May 29 04:29:42 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			63.68 seconds
+[runlim] time:			63.16 seconds
+[runlim] space:			129.6 MB
+[runlim] samples:		632

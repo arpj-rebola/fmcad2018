@@ -1,0 +1,38 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/mp1-Nb5T06.cnf
+[runlim] argv[2]:		proofs/mp1-Nb5T06.COMiniSatPS_Pulsar_drup.drat
+[runlim] argv[3]:		-skip-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 04:19:48 2018
+[runlim] main pid:		595
+[runlim] sample:		10.0 time, 10.1 real, 77.6 MB
+[runlim] sample:		20.0 time, 20.1 real, 85.7 MB
+[runlim] sample:		30.0 time, 30.1 real, 92.2 MB
+[runlim] sample:		40.0 time, 40.1 real, 99.9 MB
+[runlim] sample:		50.0 time, 50.1 real, 106.6 MB
+[runlim] sample:		60.0 time, 60.1 real, 113.8 MB
+[runlim] sample:		70.0 time, 70.1 real, 119.8 MB
+[runlim] sample:		80.0 time, 80.1 real, 127.6 MB
+[runlim] sample:		90.0 time, 90.1 real, 136.1 MB
+[runlim] sample:		100.0 time, 100.1 real, 142.5 MB
+[runlim] sample:		110.0 time, 110.1 real, 150.3 MB
+[runlim] sample:		120.0 time, 120.1 real, 158.0 MB
+[runlim] sample:		130.0 time, 130.1 real, 165.0 MB
+[runlim] sample:		140.0 time, 140.1 real, 172.0 MB
+[runlim] sample:		150.0 time, 150.1 real, 180.0 MB
+[runlim] sample:		160.0 time, 160.1 real, 190.8 MB
+[runlim] sample:		170.0 time, 170.1 real, 207.0 MB
+[runlim] end:			Tue May 29 04:22:43 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			175.18 seconds
+[runlim] time:			175.10 seconds
+[runlim] space:			212.2 MB
+[runlim] samples:		1751

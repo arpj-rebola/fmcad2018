@@ -1,0 +1,36 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/mp1-tri_ali_s11_c35_abix_UNS.cnf
+[runlim] argv[2]:		proofs/mp1-tri_ali_s11_c35_abix_UNS.glucose-4.1.drat
+[runlim] start:			Tue May 29 04:36:10 2018
+[runlim] main pid:		2512
+[runlim] sample:		10.0 time, 11.0 real, 102.3 MB
+[runlim] sample:		20.0 time, 21.0 real, 102.9 MB
+[runlim] sample:		30.0 time, 31.0 real, 103.9 MB
+[runlim] sample:		40.0 time, 41.0 real, 104.1 MB
+[runlim] sample:		50.0 time, 51.0 real, 104.1 MB
+[runlim] sample:		60.0 time, 61.0 real, 104.1 MB
+[runlim] sample:		70.0 time, 71.0 real, 104.1 MB
+[runlim] sample:		80.0 time, 81.0 real, 104.1 MB
+[runlim] sample:		90.0 time, 91.0 real, 104.1 MB
+[runlim] sample:		100.0 time, 101.0 real, 104.1 MB
+[runlim] sample:		110.0 time, 111.0 real, 104.1 MB
+[runlim] sample:		120.0 time, 121.0 real, 104.1 MB
+[runlim] sample:		130.0 time, 131.0 real, 104.1 MB
+[runlim] sample:		140.0 time, 141.0 real, 104.1 MB
+[runlim] sample:		149.9 time, 151.0 real, 104.1 MB
+[runlim] sample:		159.9 time, 161.0 real, 104.1 MB
+[runlim] sample:		169.9 time, 171.0 real, 104.1 MB
+[runlim] sample:		179.9 time, 181.0 real, 104.1 MB
+[runlim] end:			Tue May 29 04:39:20 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			190.11 seconds
+[runlim] time:			189.03 seconds
+[runlim] space:			141.9 MB
+[runlim] samples:		1891

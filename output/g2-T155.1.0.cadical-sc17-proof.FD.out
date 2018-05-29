@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/g2-T155.1.0.cnf
+c Parsing DRAT proof proofs/g2-T155.1.0.cadical-sc17-proof.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 9433555
+np 15453014
+nr 0
+dc 8742867
+ds 0
+dr 33
+tt 1321035
+tp 1304027
+tf 8762
+tb 8245
+td 0

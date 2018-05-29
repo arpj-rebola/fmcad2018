@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/mp1-Nb6T06.cnf
+c Parsing DRAT proof proofs/mp1-Nb6T06.glucose-4.1.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 15840
+np 1463718
+nr 0
+dc 723122
+ds 723108
+dr 0
+tt 245065
+tp 3763
+tf 4727
+tb 236574
+td 0

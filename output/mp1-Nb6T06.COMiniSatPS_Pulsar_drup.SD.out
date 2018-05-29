@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/mp1-Nb6T06.cnf
+c Parsing DRAT proof proofs/mp1-Nb6T06.COMiniSatPS_Pulsar_drup.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 15840
+np 1421544
+nr 0
+dc 700350
+ds 700346
+dr 0
+tt 222490
+tp 3076
+tf 2055
+tb 217359
+td 0

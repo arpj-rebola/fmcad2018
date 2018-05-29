@@ -1,0 +1,16 @@
+c Parsing CNF instance benchmarks/mp1-tri_ali_s11_c35_sinz_UNS.cnf
+c Parsing DRAT proof proofs/mp1-tri_ali_s11_c35_sinz_UNS.COMiniSatPS_Pulsar_drup.drat
+c Checking DRAT proof
+s ACCEPTED
+c LRAT proof written to 
+nf 2481
+np 1387545
+nr 0
+dc 671609
+ds 671459
+dr 0
+tt 275810
+tp 2577
+tf 1973
+tb 271259
+td 0

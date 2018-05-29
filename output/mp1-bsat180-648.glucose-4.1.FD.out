@@ -1,0 +1,26 @@
+c Parsing CNF instance benchmarks/mp1-bsat180-648.cnf
+c Parsing DRAT proof proofs/mp1-bsat180-648.glucose-4.1.drat
+c Checking DRAT proof
+s REJECTED
+Detected an incorrect instruction at instruction 1775001.
+Introduced clause C: 96 0
+The folowing literals were derived by unit propagation on ~C without reaching a conflict:
+-176 -163 -159 -156 -147 -145 -116 -97 -96 -94 -90 -78 -64 -60 -53 -51 -48 -45 -40 -36 -28 -21 -10 -8 3 5 11 20 46 47 50 83 98 117 124 137 152 154 
+C was thus decided not to be a RUP clause in the accumulated formula.
+Furthermore, the following clause D was found in the accumulated formula:
+63 -96 64 0
+C and D are resolvable upon literal 96.
+The folowing literals were derived by unit propagation on ~(C \/ D \ {-96} without reaching a conflict:
+-176 -163 -159 -156 -147 -145 -116 -97 -96 -94 -90 -78 -64 -63 -60 -53 -51 -48 -45 -40 -36 -28 -21 -10 -8 3 5 11 20 46 47 50 83 98 117 124 137 152 154 
+C was thus decided not to be a RAT clause in the accumulated formula upon the pivot 96 which first occurred in C in the input DRAT proof.
+nf 648
+np 1774354
+nr 1
+dc 865029
+ds 0
+dr 1
+tt 6556
+tp 3806
+tf 2747
+tb 2
+td 0

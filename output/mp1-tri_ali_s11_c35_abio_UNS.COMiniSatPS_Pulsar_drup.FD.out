@@ -1,0 +1,26 @@
+c Parsing CNF instance benchmarks/mp1-tri_ali_s11_c35_abio_UNS.cnf
+c Parsing DRAT proof proofs/mp1-tri_ali_s11_c35_abio_UNS.COMiniSatPS_Pulsar_drup.drat
+c Checking DRAT proof
+s REJECTED
+Detected an incorrect instruction at instruction 1935017.
+Introduced clause C: 157 -569 0
+The folowing literals were derived by unit propagation on ~C without reaching a conflict:
+-661 -660 -586 -585 -570 -287 -286 -212 -211 -196 -195 -157 -131 -127 -97 -70 -17 16 26 33 145 253 274 295 315 324 326 338 345 347 382 462 464 480 482 500 569 619 621 670 671 698 808 
+C was thus decided not to be a RUP clause in the accumulated formula.
+Furthermore, the following clause D was found in the accumulated formula:
+-642 -157 711 -598 -199 -675 0
+C and D are resolvable upon literal 157.
+The folowing literals were derived by unit propagation on ~(C \/ D \ {-157} without reaching a conflict:
+-711 -710 -661 -660 -614 -606 -605 -604 -603 -586 -585 -570 -287 -286 -230 -229 -212 -211 -196 -195 -157 -131 -127 -118 -113 -97 -80 -73 -70 -17 16 26 33 105 138 145 146 159 176 199 253 274 295 315 324 326 338 345 347 382 462 464 480 482 500 565 567 568 569 572 577 596 597 598 610 619 621 632 642 647 648 651 652 653 657 670 671 674 675 676 677 679 680 681 689 691 695 698 808 818 820 847 848 849 852 857 858 859 860 862 
+C was thus decided not to be a RAT clause in the accumulated formula upon the pivot 157 which first occurred in C in the input DRAT proof.
+nf 2968
+np 1933342
+nr 1
+dc 946757
+ds 0
+dr 37
+tt 9364
+tp 5461
+tf 3208
+tb 694
+td 0

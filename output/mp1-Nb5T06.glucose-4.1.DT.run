@@ -1,0 +1,31 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		drat-trim/drat-trim
+[runlim] argv[1]:		benchmarks/mp1-Nb5T06.cnf
+[runlim] argv[2]:		proofs/mp1-Nb5T06.glucose-4.1.drat
+[runlim] start:			Tue May 29 04:21:45 2018
+[runlim] main pid:		1077
+[runlim] sample:		10.0 time, 11.0 real, 92.2 MB
+[runlim] sample:		20.0 time, 21.0 real, 93.3 MB
+[runlim] sample:		30.0 time, 31.0 real, 93.3 MB
+[runlim] sample:		40.0 time, 41.0 real, 93.3 MB
+[runlim] sample:		50.0 time, 51.0 real, 93.3 MB
+[runlim] sample:		60.0 time, 61.0 real, 93.8 MB
+[runlim] sample:		70.0 time, 71.0 real, 93.8 MB
+[runlim] sample:		80.0 time, 81.0 real, 93.8 MB
+[runlim] sample:		90.0 time, 91.0 real, 93.8 MB
+[runlim] sample:		100.0 time, 101.0 real, 93.8 MB
+[runlim] sample:		110.0 time, 111.0 real, 93.8 MB
+[runlim] sample:		120.0 time, 121.0 real, 93.8 MB
+[runlim] sample:		130.0 time, 131.0 real, 93.8 MB
+[runlim] end:			Tue May 29 04:24:02 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			137.49 seconds
+[runlim] time:			136.47 seconds
+[runlim] space:			132.3 MB
+[runlim] samples:		1365

@@ -1,0 +1,21 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/mp1-Nb6T06.cnf
+[runlim] argv[2]:		proofs/mp1-Nb6T06.glucose-4.1.drat
+[runlim] argv[3]:		-full-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 04:28:07 2018
+[runlim] main pid:		1662
+[runlim] end:			Tue May 29 04:28:16 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			9.39 seconds
+[runlim] time:			8.71 seconds
+[runlim] space:			83.8 MB
+[runlim] samples:		87

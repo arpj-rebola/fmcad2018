@@ -1,0 +1,26 @@
+c Parsing CNF instance benchmarks/mp1-bsat180-648.cnf
+c Parsing DRAT proof proofs/mp1-bsat180-648.Maple_LCM_Dist.drat
+c Checking DRAT proof
+s REJECTED
+Detected an incorrect instruction at instruction 834035.
+Introduced clause C: 71 10 0
+The folowing literals were derived by unit propagation on ~C without reaching a conflict:
+-179 -163 -147 -132 -125 -116 -106 -77 -71 -47 -39 -27 -15 -13 -11 -10 -7 -6 1 2 3 5 16 18 19 23 30 36 40 41 60 66 68 75 78 79 82 97 99 112 122 142 152 156 162 165 166 170 
+C was thus decided not to be a RUP clause in the accumulated formula.
+Furthermore, the following clause D was found in the accumulated formula:
+-109 -71 -60 0
+C and D are resolvable upon literal 71.
+The folowing literals were derived by unit propagation on ~(C \/ D \ {-71} without reaching a conflict:
+-179 -163 -147 -141 -132 -125 -116 -106 -94 -77 -71 -47 -39 -27 -15 -13 -11 -10 -7 -6 1 2 3 5 16 18 19 23 30 36 40 41 60 66 68 75 78 79 82 97 99 109 112 122 142 152 156 162 165 166 170 
+C was thus decided not to be a RAT clause in the accumulated formula upon the pivot 71 which first occurred in C in the input DRAT proof.
+nf 648
+np 833393
+nr 1
+dc 355278
+ds 0
+dr 1
+tt 3605
+tp 1928
+tf 1665
+tb 10
+td 0

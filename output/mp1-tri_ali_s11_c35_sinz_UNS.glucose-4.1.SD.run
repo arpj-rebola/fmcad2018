@@ -1,0 +1,38 @@
+[runlim] version:		1.12
+[runlim] host:			uranus
+[runlim] time limit:		311040000 seconds
+[runlim] real time limit:	3000 seconds
+[runlim] space limit:		8192 MB
+[runlim] argv[0]:		rupee/bin/rupee
+[runlim] argv[1]:		benchmarks/mp1-tri_ali_s11_c35_sinz_UNS.cnf
+[runlim] argv[2]:		proofs/mp1-tri_ali_s11_c35_sinz_UNS.glucose-4.1.drat
+[runlim] argv[3]:		-skip-deletion
+[runlim] argv[4]:		-stats
+[runlim] argv[5]:		-binary
+[runlim] start:			Tue May 29 04:49:19 2018
+[runlim] main pid:		3435
+[runlim] sample:		10.0 time, 10.2 real, 49.7 MB
+[runlim] sample:		20.0 time, 20.2 real, 53.2 MB
+[runlim] sample:		30.0 time, 30.2 real, 58.3 MB
+[runlim] sample:		40.0 time, 40.2 real, 62.2 MB
+[runlim] sample:		50.0 time, 50.2 real, 67.2 MB
+[runlim] sample:		60.0 time, 60.2 real, 71.4 MB
+[runlim] sample:		70.0 time, 70.2 real, 75.5 MB
+[runlim] sample:		80.0 time, 80.2 real, 80.9 MB
+[runlim] sample:		90.0 time, 90.2 real, 86.7 MB
+[runlim] sample:		99.9 time, 100.2 real, 90.1 MB
+[runlim] sample:		109.9 time, 110.2 real, 94.3 MB
+[runlim] sample:		119.9 time, 120.2 real, 99.8 MB
+[runlim] sample:		129.9 time, 130.2 real, 105.2 MB
+[runlim] sample:		139.9 time, 140.2 real, 110.8 MB
+[runlim] sample:		149.9 time, 150.2 real, 116.5 MB
+[runlim] sample:		159.9 time, 160.2 real, 123.0 MB
+[runlim] sample:		169.9 time, 170.2 real, 132.5 MB
+[runlim] end:			Tue May 29 04:52:18 2018
+[runlim] status:		ok
+[runlim] result:		0
+[runlim] children:		0
+[runlim] real:			179.10 seconds
+[runlim] time:			178.71 seconds
+[runlim] space:			141.0 MB
+[runlim] samples:		1788
